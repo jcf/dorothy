@@ -5,6 +5,4 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"
             :distribution :repo
             :comments "same as Clojure"}
-  :dependencies [[org.clojure/clojure "1.5.1"]]
-  :warn-on-reflection true
-  )
+  :dependencies [[org.clojure/clojure "1.8.0"]])
