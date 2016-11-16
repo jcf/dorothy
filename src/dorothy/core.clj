@@ -189,8 +189,6 @@
   (:require [clojure.string :as cs]
             [clojure.java.io :as jio]))
 
-(set! *warn-on-reflection* true)
-
 ;; ----------------------------------------------------------------------
 ;; # Utilities
 ;;
